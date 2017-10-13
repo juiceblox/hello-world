@@ -1,2 +1,3 @@
 # hello-world
-Idea Factory
+
+This is my first commit!
